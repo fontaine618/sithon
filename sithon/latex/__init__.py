@@ -1,0 +1,1 @@
+from .pd_to_latex import pd_to_tabular

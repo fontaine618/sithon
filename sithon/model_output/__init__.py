@@ -1,0 +1,1 @@
+from .statsmodels import coef_table_long, coef_table_wide
